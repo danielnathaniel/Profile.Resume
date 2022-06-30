@@ -1,3 +1,3 @@
 Hello there! :smile:	:wave:
 
-My Name is Daniel Yaghoobian and I am a full stack software developer. I have been interested in technology from early childhood and have attended General Assembly's full stack program. In addition to my fascination with technology, my knowledge extends to finance where I started banking at the age of 17 and managed all credit for a online lending platform. 
+My Name is Daniel Yaghoobian and I am a full stack software developer. I have been interested in technology from early childhood and have attended General Assembly's full stack program. My knowledge also extends to finance where I started banking at the age of 17 and moved on to manage all credit for an online lending platform. I have a proven track record with successfully assessing risk in banking. My agressive pursuit of software development stems from my passion about technology being essential to the quality of life for humanity and providing protection from cyber warfare. 
